@@ -1,0 +1,47 @@
+
+.container{
+
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0) 0% ,rgb(7, 0, 3) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.phone{
+    margin-bottom: 10px;
+}
+#see-all{
+    color: #FF9D00;
+   font-size: 20px;
+   margin-top: 20px;
+}
+
+.categories img{
+   padding:50px 50px;
+}
+
+.card-deck{
+    height: 600px;
+
+}
+.card{
+    
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.laptop{
+    margin-top:30px ;
+}
+
