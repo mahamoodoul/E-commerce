@@ -44,4 +44,62 @@
 .laptop{
     margin-top:30px ;
 }
+.line {
+    
+    
+    border-radius: 10px;
+    width: 100px;
+    border: 4px solid #FF9C35;
+}
+.ctgy{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.bg-clr{
+    margin: 20px 20px;
+    /* background-image: linear-gradient(to bottom, #FFFFFF 0% ,rgb(255, 252, 252) 100%); */
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    
+
+}
+.bg-clr img {
+    padding:20px 20px;
+}
+.bg-clr h4 {
+    text-align: center;
+}
+.bag {
+    margin-top: 170px;
+    margin-left: 70px;
+    border-radius: 0px 5px 0px 15px; 
+}
+.beauty {
+    border-radius: 15px 5px 30px 5px; 
+}
+.shoes{
+    border-radius: 10px 5px 30px 5px; 
+}
+.busket{
+    border-radius: 3px solid black;
+   
+}
+.busket img {
+  height: 514px;
+  width: 680px;
+  padding-top: 50px;
+  padding-right: 100px;
+    
+}
+.beauty-shoes{
+    padding-left: 170px;
+}
+.item{
+    margin-top: 50px;
+}
+footer {
+    text-align: center;
+}
 
